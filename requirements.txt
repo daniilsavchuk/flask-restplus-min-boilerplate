@@ -1,0 +1,10 @@
+Beaker
+Flask
+Flask-Cors
+flask-restplus
+Flask-SQLAlchemy
+psycopg2
+python-dateutil
+requests
+Werkzeug==0.16.1
+uWSGI

@@ -1,0 +1,41 @@
+{
+  "roles": [
+    {
+      "name": "expert",
+      "level": 0
+    },
+    {
+      "name": "tracker",
+      "level": 0
+    },
+    {
+      "name": "jury",
+      "level": 1
+    },
+    {
+      "name": "admin",
+      "level": 1000
+    }
+  ],
+  "team_staff_roles": [
+    "expert",
+    "tracker"
+  ],
+  "admins": [
+    {
+      "name": "Матроскин",
+      "surname": "Кот",
+      "bio": "Простоквашкин"
+    },
+    {
+      "name": "Шарик",
+      "surname": "Пес",
+      "bio": "Простоквашкин"
+    },
+    {
+      "name": "Дядя",
+      "surname": "Федор",
+      "bio": "Простоквашкин"
+    }
+  ]
+}

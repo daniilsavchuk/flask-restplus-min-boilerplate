@@ -1,0 +1,32 @@
+{
+  "staff": [
+    {
+      "runet_id": 1,
+      "name": "Имя 1",
+      "surname": "Фамилия 1",
+      "bio": "Какой-то текст 1",
+      "roles": ["expert", "jury"],
+      "expertises": [
+        {
+          "name": "Machine learning"
+        }
+      ],
+      "teams": [6, 7]
+    },
+    {
+      "runet_id": 34568,
+      "name": "Имя 34568",
+      "surname": "Фамилия 34568",
+      "bio": "Какой-то текст 34568",
+      "roles": ["tracker", "expert", "nothing"],
+      "expertises": [
+        {
+          "name": "Expertise #0"
+        },
+        {
+          "name": "Expertise #1"
+        }
+      ]
+    }
+  ]
+}

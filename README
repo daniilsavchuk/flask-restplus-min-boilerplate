@@ -1,0 +1,7 @@
+pip install requirements.txt
+
+./startup.sh # Or use app_main.py to start the app in debugger.
+
+BEFORE performing queries call /db/reset in swagger
+
+URL: 127.0.0.1:5000/api/v1/swagger
