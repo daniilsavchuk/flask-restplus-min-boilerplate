@@ -5,3 +5,8 @@ pip install requirements.txt
 BEFORE performing queries call /db/reset in swagger
 
 URL: 127.0.0.1:5000/api/v1/swagger
+
+
+Or possibly could use DOCKER. For this run:
+docker build -t $CONTAINER_NAME .
+docker run --name $IMAGE_NAME -p $PORT:80 $CONTAINER_NAME

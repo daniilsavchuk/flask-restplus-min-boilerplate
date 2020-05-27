@@ -15,12 +15,6 @@ RUN chmod 777 ./startup.sh && \
 
 COPY VERSION ./VERSION
 
-COPY case_28.zip ./case_28.zip
-COPY case_35.zip ./case_35.zip
-COPY case_43.zip ./case_43.zip
-COPY case_50.zip ./case_50.zip
-COPY case_58.zip ./case_58.zip
-
 EXPOSE 5000
 
 CMD ["./startup.sh"]
